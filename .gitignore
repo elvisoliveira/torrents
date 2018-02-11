@@ -1,6 +1,7 @@
 *
 
 !.gitignore
+!.dockerignore
 !Dockerfile
 !README.md
 !settings.json
